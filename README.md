@@ -1,4 +1,4 @@
-## Hi there
+## Michael Stolberger
 
 I'm a MEng Computer Engineering Student @ Queens University Belfast
 
