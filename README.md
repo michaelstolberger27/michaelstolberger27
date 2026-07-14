@@ -1,7 +1,7 @@
 ## Michael Stolberger
 MEng Computer Engineering Graduate @ Queen's University Belfast
 
-Interested in robotics, control theory and embedded systems.
+Passionate about robotics, control theory and embedded systems.
 
 **Featured:** [usv-navigation](https://github.com/michaelstolberger27/usv-navigation) —
 a hybrid-automaton collision-avoidance (COLAV) system for unmanned surface
